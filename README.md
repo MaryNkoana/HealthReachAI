@@ -10,14 +10,14 @@ The problem stems from limited healthcare infrastructure, inadequate resources, 
 
 *Model:*
 
-Cross-Validation: We will use cross-validation approaches to avoid overfitting and evaluate the model's capacity for generalization. The dataset will be divided into subsets for testing, validation, and training. This enables us to check the model's robustness and accuracy on unobserved data.
-Metrics Selection: 
+*Cross-Validation:* We will use cross-validation approaches to avoid overfitting and evaluate the model's capacity for generalization. The dataset will be divided into subsets for testing, validation, and training. This enables us to check the model's robustness and accuracy on unobserved data.
+*Metrics Selection:* 
 We will choose pertinent metrics that are specific to each element of our solution. Metrics including precision, recall, F1-score, and accuracy will be used to evaluate the chatbot's Natural Language Processing (NLP)-powered ability to comprehend and reply to user inquiries. While treatment recommendation algorithms will be evaluated using accuracy and mean squared error, disease outbreak prediction models will be assessed using Receiver Operating Characteristic-Area Under the Curve (ROC-AUC).
 Collaboration with Medical Experts: 
 Medical experts will be crucial in determining how accurate our AI model is. We will evaluate the model's diagnostic efficacy in collaboration with healthcare professionals by contrasting its predictions with professional opinions. Our AI model is validated to make sure it adheres to medical norms.
 
-Real-world Testing:
+*Real-world Testing:*
 We will conduct real-world testing by deploying the AI model in controlled environments within target communities. This will allow us to assess its performance in actual scenarios and gather insights on its accuracy in providing healthcare guidance.
-User Satisfaction Surveys:
+*User Satisfaction Surveys:*
  We will conduct surveys and gather feedback from local residents who have interacted with the AI-powered telemedicine platform in order to assess the model's effectiveness from the perspective of users. This input will shed light on the model's precision and effect on access to healthcare.
 
