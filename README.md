@@ -20,4 +20,4 @@ Medical experts will be crucial in determining how accurate our AI model is. We 
 We will conduct real-world testing by deploying the AI model in controlled environments within target communities. This will allow us to assess its performance in actual scenarios and gather insights on its accuracy in providing healthcare guidance.
 *User Satisfaction Surveys:*
  We will conduct surveys and gather feedback from local residents who have interacted with the AI-powered telemedicine platform in order to assess the model's effectiveness from the perspective of users. This input will shed light on the model's precision and effect on access to healthcare.
-
+Human language is filled with uncertainty that makes it difficult to write software that determines the direct meaning of text or voice data. NLP tasks break down human text and voice data in ways that help the computer make sense of the information consumed. Natural language generation is sometimes described as the opposite of speech synthesis; it’s the task of putting structured information into human language
